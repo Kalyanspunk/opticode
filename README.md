@@ -23,9 +23,10 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-*(Add your app screenshots here)*
+![App Screenshot](https://github.com/Kalyanspunk/opticode/blob/main/Frontend/public/Opti-code.png)
+
 
 ---
 
@@ -81,3 +82,6 @@ npm run dev
 ```bash
 Open http://localhost:5173 in your browser.
 ```
+
+  ## Authors
+- [@kalyanspunk](https://github.com/Kalyanspunk)
