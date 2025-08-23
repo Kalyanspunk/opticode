@@ -1,3 +1,6 @@
+##  OPTI-CODE
+
+
 **OptiCode** is an intelligent code review platform that helps developers write cleaner, optimized, and error-free code by providing instant feedback, error detection, and optimization suggestions using AI.
 
 ---
